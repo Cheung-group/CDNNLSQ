@@ -4,7 +4,7 @@ function [fit_stat]=deconvolution(cd_spectra)
 %%Version 1.0 Release -- 12/11/19
 
 sdp48cd=importdata('../reference_database/sdp48_cd',' '); %%Imports 48x51 matrix
-sdp48ss=importdata('../reference_dataebase/sdp48_ss',' '); %%imports 48x6 matrix
+sdp48ss=importdata('../reference_database/sdp48_ss',' '); %%imports 48x6 matrix
 sdp48cd=sdp48cd'; %%transpose -- 
 sdp48ss=sdp48ss';
 range=[240:-1:190]; %%CD range for db, goes from high to low wavelength
