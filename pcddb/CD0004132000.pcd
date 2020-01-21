@@ -1,0 +1,243 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004132000
+FILE EXTRACTED                                              2019-07-30
+Protein Name                                                Rat Liver Fatty Acid Binding Protein
+Alternative Protein Names                                   No data provided
+Source Organism                                             Rat
+Protein Supplier                                            Friedhelm Schroeder
+Expression System or natural source                         E. coli
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  No data provided
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2013-07-26
+Dichroism Units of Raw Sample Data                          No data provided
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               0.0071
+Concentration Quantification Method                         QAA
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                No data provided
+Buffer Contents and Concentrations                          10 mM potassium phosphate (pH 7.4)
+Baseline Contents                                           10 mM potassium phosphate (pH 7.4)
+Experimental Temperature (C)                                25
+Instrument or beamline                                      Jasco
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 1
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Rectangular
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      10
+Continuous or Stepped scan                                  ---- Please sele
+Maximum (highest) wavelength, nm                            250
+Minimum (lowest) wavelength, nm                             190
+Criteria for low wavelength cutoff                          No data provided
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            No data provided
+Experimental Collection date                                2013-04-04
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            14272
+Number of Residues                                          127
+Mean Residue Weight                                         113.3
+Data Processing Software Name                               CDTool
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  5
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  P02692
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    MNFSGKYQVQ SQENFEPFMK AMGLPEDLIQ KGKDIKGVSE IVHEGKKVKL TITYGSKVIH NEFTLGEECE LETMTGEKVK AVVKMEGDNK MVTTFKGIKS VTEFNGDTIT NTMTLGDIVY KRVSKRI 
+Type of protein                                             soluble globular
+Keyword/phrase A                                            Rat L-FABP
+Keyword/phrase B                                            No data provided
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         No data provided
+Publication Year                                            No data provided
+Publication Journal                                         No data provided
+Publication Title                                           No data provided
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              Gregory Gerald Martin
+Department/School name                                      Veterinary Physiology and Pharmacology
+University/Institution/Corporation                          Texas A and M University
+Depositor Country                                           United States
+Name of Principal Investigator (if not depositor)           Friedhelm Schroeder
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+250.0000        0.183342          0.0000          0.0000          0.0000          0.0000 
+249.0000        0.163486          0.0000          0.0000          0.0000          0.0000 
+248.0000        0.129351          0.0000          0.0000          0.0000          0.0000 
+247.0000       0.0820965          0.0000          0.0000          0.0000          0.0000 
+246.0000       0.0217496          0.0000          0.0000          0.0000          0.0000 
+245.0000      -0.0576703          0.0000          0.0000          0.0000          0.0000 
+244.0000       -0.147042          0.0000          0.0000          0.0000          0.0000 
+243.0000       -0.243843          0.0000          0.0000          0.0000          0.0000 
+242.0000       -0.354798          0.0000          0.0000          0.0000          0.0000 
+241.0000       -0.487152          0.0000          0.0000          0.0000          0.0000 
+240.0000       -0.636261          0.0000          0.0000          0.0000          0.0000 
+239.0000       -0.821528          0.0000          0.0000          0.0000          0.0000 
+238.0000        -1.04937          0.0000          0.0000          0.0000          0.0000 
+237.0000         -1.3242          0.0000          0.0000          0.0000          0.0000 
+236.0000          -1.652          0.0000          0.0000          0.0000          0.0000 
+235.0000        -2.02879          0.0000          0.0000          0.0000          0.0000 
+234.0000        -2.44813          0.0000          0.0000          0.0000          0.0000 
+233.0000        -2.91713          0.0000          0.0000          0.0000          0.0000 
+232.0000        -3.43379          0.0000          0.0000          0.0000          0.0000 
+231.0000        -3.97546          0.0000          0.0000          0.0000          0.0000 
+230.0000         -4.5472          0.0000          0.0000          0.0000          0.0000 
+229.0000        -5.14183          0.0000          0.0000          0.0000          0.0000 
+228.0000        -5.73306          0.0000          0.0000          0.0000          0.0000 
+227.0000        -6.30798          0.0000          0.0000          0.0000          0.0000 
+226.0000        -6.85799          0.0000          0.0000          0.0000          0.0000 
+225.0000        -7.36694          0.0000          0.0000          0.0000          0.0000 
+224.0000        -7.81227          0.0000          0.0000          0.0000          0.0000 
+223.0000        -8.18747          0.0000          0.0000          0.0000          0.0000 
+222.0000        -8.47731          0.0000          0.0000          0.0000          0.0000 
+221.0000        -8.67557          0.0000          0.0000          0.0000          0.0000 
+220.0000        -8.78326          0.0000          0.0000          0.0000          0.0000 
+219.0000        -8.79794          0.0000          0.0000          0.0000          0.0000 
+218.0000         -8.7245          0.0000          0.0000          0.0000          0.0000 
+217.0000        -8.56518          0.0000          0.0000          0.0000          0.0000 
+216.0000        -8.32659          0.0000          0.0000          0.0000          0.0000 
+215.0000        -7.99079          0.0000          0.0000          0.0000          0.0000 
+214.0000        -7.57289          0.0000          0.0000          0.0000          0.0000 
+213.0000        -7.07205          0.0000          0.0000          0.0000          0.0000 
+212.0000        -6.48211          0.0000          0.0000          0.0000          0.0000 
+211.0000         -5.7998          0.0000          0.0000          0.0000          0.0000 
+210.0000        -5.02532          0.0000          0.0000          0.0000          0.0000 
+209.0000        -4.11891          0.0000          0.0000          0.0000          0.0000 
+208.0000        -3.03188          0.0000          0.0000          0.0000          0.0000 
+207.0000        -1.73284          0.0000          0.0000          0.0000          0.0000 
+206.0000       -0.168479          0.0000          0.0000          0.0000          0.0000 
+205.0000         1.69326          0.0000          0.0000          0.0000          0.0000 
+204.0000         3.86227          0.0000          0.0000          0.0000          0.0000 
+203.0000          6.3188          0.0000          0.0000          0.0000          0.0000 
+202.0000         9.02763          0.0000          0.0000          0.0000          0.0000 
+201.0000         11.9227          0.0000          0.0000          0.0000          0.0000 
+200.0000         14.8649          0.0000          0.0000          0.0000          0.0000 
+199.0000         17.6198          0.0000          0.0000          0.0000          0.0000 
+198.0000         19.9299          0.0000          0.0000          0.0000          0.0000 
+197.0000         21.6769          0.0000          0.0000          0.0000          0.0000 
+196.0000         22.5218          0.0000          0.0000          0.0000          0.0000 
+195.0000         22.2805          0.0000          0.0000          0.0000          0.0000 
+194.0000         20.9683          0.0000          0.0000          0.0000          0.0000 
+193.0000         18.8808          0.0000          0.0000          0.0000          0.0000 
+192.0000         16.0956          0.0000          0.0000          0.0000          0.0000 
+191.0000         13.5885          0.0000          0.0000          0.0000          0.0000 
+190.0000         11.6229          0.0000          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+PCDDB-END

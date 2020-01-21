@@ -1,0 +1,243 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0005899000
+FILE EXTRACTED                                              2019-07-30
+Protein Name                                                Ciona intestinalis betagamma-crystallin Ca2+ form
+Alternative Protein Names                                   tunicate betagamma-crystallin
+Source Organism                                             Ciona intestinalis
+Protein Supplier                                            Rachel Martin laboratory
+Expression System or natural source                         E. coli
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  1 mM CaCl2
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2016-09-11
+Dichroism Units of Raw Sample Data                          Millidegrees (theta)
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               0.075
+Concentration Quantification Method                         A280 or A280-denatured
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                No data provided
+Buffer Contents and Concentrations                          10 mM Tris (pH 7.1)
+Baseline Contents                                           10 mM Tris (pH 7.1), 1 mM CaCl2
+Experimental Temperature (C)                                25 
+Instrument or beamline                                      Jasco
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.1
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Rectangular
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      5
+Continuous or Stepped scan                                  Continuous
+Maximum (highest) wavelength, nm                            260
+Minimum (lowest) wavelength, nm                             190
+Criteria for low wavelength cutoff                          No data provided
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            No data provided
+Experimental Collection date                                2016-03-03
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            9057
+Number of Residues                                          83
+Mean Residue Weight                                         110.45
+Data Processing Software Name                               Excel
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  0
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  F6Q2R9
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    GKIILFEDVE FGGKKLELET SVSDLNVHGF NDIVSSIIVE SGTWFVFDDE GFSGPSYKLT PGKYPNPGSW GGNDDELSSV KQQ 
+Type of protein                                             soluble globular
+Keyword/phrase A                                            Tunicate beta gamma crystallin
+Keyword/phrase B                                            No data provided
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         No data provided
+Publication Year                                            No data provided
+Publication Journal                                         No data provided
+Publication Title                                           No data provided
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              Natalia Kozlyuk
+Department/School name                                      Chemistry
+University/Institution/Corporation                          University of California, Irvine
+Depositor Country                                           United States
+Name of Principal Investigator (if not depositor)           Rachel W. Martin
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+260    -0.003921205          283.222          283.222          283.222          283.222 
+259    -0.007123277          284.011          284.011          284.011          284.011 
+258    -0.015110283          284.765          284.765          284.765          284.765 
+257     -0.01065156          285.463          285.463          285.463          285.463 
+256     0.000967048          286.118          286.118          286.118          286.118 
+255    -0.010149076          286.739          286.739          286.739          286.739 
+254    -0.036759064          287.326          287.326          287.326          287.326 
+253    -0.035932977          287.891          287.891          287.891          287.891 
+252     -0.01110555          288.436          288.436          288.436          288.436 
+251     0.009938535          288.974          288.974          288.974          288.974 
+250     0.010536265          289.512          289.512          289.512          289.512 
+249     0.032172676          290.036          290.036          290.036          290.036 
+248     0.005066009          290.584          290.584          290.584          290.584 
+247     0.013485929          291.169          291.169          291.169          291.169 
+246     0.001885246          291.796          291.796          291.796          291.796 
+245     0.048869939          292.463          292.463          292.463          292.463 
+244     0.064871904          293.144          293.144          293.144          293.144 
+243     0.099788572          293.892          293.892          293.892          293.892 
+242     0.057734963          294.709          294.709          294.709          294.709 
+241     0.080325974          295.621          295.621          295.621          295.621 
+240     0.110708543          296.644          296.644          296.644          296.644 
+239     0.171725526           297.77           297.77           297.77           297.77 
+238     0.210668584          299.002          299.002          299.002          299.002 
+237     0.204710044          300.324          300.324          300.324          300.324 
+236     0.204275567          301.755          301.755          301.755          301.755 
+235     0.212391309          303.288          303.288          303.288          303.288 
+234      0.20860694          304.952          304.952          304.952          304.952 
+233     0.127604021          306.715          306.715          306.715          306.715 
+232     0.034221817          308.578          308.578          308.578          308.578 
+231    -0.094850361          310.401          310.401          310.401          310.401 
+230    -0.240255877          312.282          312.282          312.282          312.282 
+229    -0.410080064          314.133          314.133          314.133          314.133 
+228    -0.642088025          315.967          315.967          315.967          315.967 
+227    -0.849909066          317.717          317.717          317.717          317.717 
+226    -1.086844075          319.347          319.347          319.347          319.347 
+225    -1.237549048           320.91           320.91           320.91           320.91 
+224     -1.46539264           322.41           322.41           322.41           322.41 
+223    -1.680572549          323.882          323.882          323.882          323.882 
+222    -1.916507324          325.328          325.328          325.328          325.328 
+221     -2.09345059          326.764          326.764          326.764          326.764 
+220    -2.158497089          328.178          328.178          328.178          328.178 
+219     -2.17825172          329.601          329.601          329.601          329.601 
+218     -2.18469966          331.068          331.068          331.068          331.068 
+217    -2.149347623          332.627          332.627          332.627          332.627 
+216    -2.091936843          334.273          334.273          334.273          334.273 
+215    -1.980767924          335.994          335.994          335.994          335.994 
+214    -1.833523584          337.818          337.818          337.818          337.818 
+213    -1.585519016          339.798          339.798          339.798          339.798 
+212    -1.332468621           341.97           341.97           341.97           341.97 
+211    -0.986744716          344.358          344.358          344.358          344.358 
+210     -0.58286432          346.966          346.966          346.966          346.966 
+209    -0.045600422          349.819          349.819          349.819          349.819 
+208     0.599747742          352.998          352.998          352.998          352.998 
+207     1.240170198          356.501          356.501          356.501          356.501 
+206     1.830326406          360.389          360.389          360.389          360.389 
+205     2.557099462          364.659          364.659          364.659          364.659 
+204     3.232829303          369.349          369.349          369.349          369.349 
+203     3.786039349          374.582          374.582          374.582          374.582 
+202     4.265392796          380.487          380.487          380.487          380.487 
+201     4.465466485          387.245          387.245          387.245          387.245 
+200     4.665825955          394.941          394.941          394.941          394.941 
+199      4.63876604          403.692          403.692          403.692          403.692 
+198     4.263620059          413.617          413.617          413.617          413.617 
+197     3.500048197          424.759          424.759          424.759          424.759 
+196     2.408037732          437.168          437.168          437.168          437.168 
+195      1.23025716          451.206          451.206          451.206          451.206 
+194     0.151219826          467.808          467.808          467.808          467.808 
+193    -0.757159644           488.31           488.31           488.31           488.31 
+192    -1.040869012          514.697          514.697          514.697          514.697 
+191    -1.432679614          548.767          548.767          548.767          548.767 
+190    -1.122557805          594.125          594.125          594.125          594.125 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+         283.222
+         284.011
+         284.765
+         285.463
+         286.118
+         286.739
+         287.326
+         287.891
+         288.436
+         288.974
+         289.512
+         290.036
+         290.584
+         291.169
+         291.796
+         292.463
+         293.144
+         293.892
+         294.709
+         295.621
+         296.644
+          297.77
+         299.002
+         300.324
+         301.755
+         303.288
+         304.952
+         306.715
+         308.578
+         310.401
+         312.282
+         314.133
+         315.967
+         317.717
+         319.347
+          320.91
+          322.41
+         323.882
+         325.328
+         326.764
+         328.178
+         329.601
+         331.068
+         332.627
+         334.273
+         335.994
+         337.818
+         339.798
+          341.97
+         344.358
+         346.966
+         349.819
+         352.998
+         356.501
+         360.389
+         364.659
+         369.349
+         374.582
+         380.487
+         387.245
+         394.941
+         403.692
+         413.617
+         424.759
+         437.168
+         451.206
+         467.808
+          488.31
+         514.697
+         548.767
+         594.125
+PCDDB-END

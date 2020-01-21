@@ -1,0 +1,224 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004333000
+FILE EXTRACTED                                              2019-07-30
+Protein Name                                                FGGn-Skp1
+Alternative Protein Names                                   glycoprotein FP21
+Source Organism                                             Dictyostelium discoideum
+Protein Supplier                                            C.M. West Lab, OUHSC
+Expression System or natural source                         E. coli
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  No data provided
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2014-02-07
+Dichroism Units of Raw Sample Data                          No data provided
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Mean Residue Ellipticity
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               0.2
+Concentration Quantification Method                         A280 or A280-denatured
+Protein Purity (%)                                          >95%
+Purity Quantification Method                                SDS gels
+Buffer Contents and Concentrations                          20 mM sodium phosphate pH 7.4, 50 mM NaCl, 1 mM MgCl2, 1 mM TCEP, 0.1 mM EDTA
+Baseline Contents                                           20 mM sodium phosphate pH 7.4, 50 mM NaCl, 1 mM MgCl2, 1 mM TCEP, 0.1 mM EDTA
+Experimental Temperature (C)                                20
+Instrument or beamline                                      Jasco
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.1
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Rectangular
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      3
+Continuous or Stepped scan                                  Stepped
+Maximum (highest) wavelength, nm                            260
+Minimum (lowest) wavelength, nm                             200
+Criteria for low wavelength cutoff                          Noise level
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            1
+Experimental Collection date                                2013-08-28
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            18718
+Number of Residues                                          161
+Mean Residue Weight                                         116.26
+Data Processing Software Name                               Jasco
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  0
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  P52285
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    SLVKLESSDE KVFEIEKEIA CMSVTIKNMI EDIGESDSPI PLPNVTSTIL EKVLDYCRHH HQHPSPQGDD KKDEKRLDDI PPYDRDFCKV DQPTLFELIL AANYLDIKPL LDVTCKTVAN MIRGKTPEEI RKIFNIKNDF TPEEEEQIRK ENEWCEDKGG N 
+Type of protein                                             soluble globular
+Keyword/phrase A                                            FGGn-Skp1
+Keyword/phrase B                                            Fuc-Gal-GlcNAc-O-Skp1
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         No data provided
+Publication Year                                            No data provided
+Publication Journal                                         No data provided
+Publication Title                                           No data provided
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              Mohammed Osman Sheikh
+Department/School name                                      Department of Biochemistry & Molecular Biology
+University/Institution/Corporation                          University of Oklahoma Health Sciences Center
+Depositor Country                                           United States
+Name of Principal Investigator (if not depositor)           Christopher M. West, Ph.D.
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+260      -20.925833          0.0000          0.0000          0.0000          0.0000 
+259      -30.123678          0.0000          0.0000          0.0000          0.0000 
+258     -203.408569          0.0000          0.0000          0.0000          0.0000 
+257     -122.185982          0.0000          0.0000          0.0000          0.0000 
+256     -195.407471          0.0000          0.0000          0.0000          0.0000 
+255     -197.177811          0.0000          0.0000          0.0000          0.0000 
+254       -155.5793          0.0000          0.0000          0.0000          0.0000 
+253     -216.093018          0.0000          0.0000          0.0000          0.0000 
+252     -272.186798          0.0000          0.0000          0.0000          0.0000 
+251      -322.28653          0.0000          0.0000          0.0000          0.0000 
+250     -379.871033          0.0000          0.0000          0.0000          0.0000 
+249      -295.77124          0.0000          0.0000          0.0000          0.0000 
+248     -477.748322          0.0000          0.0000          0.0000          0.0000 
+247      -611.01593          0.0000          0.0000          0.0000          0.0000 
+246      -636.96698          0.0000          0.0000          0.0000          0.0000 
+245      -730.68103          0.0000          0.0000          0.0000          0.0000 
+244    -1049.970215          0.0000          0.0000          0.0000          0.0000 
+243    -1205.378784          0.0000          0.0000          0.0000          0.0000 
+242    -1498.481445          0.0000          0.0000          0.0000          0.0000 
+241    -1885.001953          0.0000          0.0000          0.0000          0.0000 
+240    -2327.052002          0.0000          0.0000          0.0000          0.0000 
+239    -2857.197754          0.0000          0.0000          0.0000          0.0000 
+238    -3503.321289          0.0000          0.0000          0.0000          0.0000 
+237    -4185.897949          0.0000          0.0000          0.0000          0.0000 
+236    -4927.131836          0.0000          0.0000          0.0000          0.0000 
+235    -5867.477539          0.0000          0.0000          0.0000          0.0000 
+234    -6943.773438          0.0000          0.0000          0.0000          0.0000 
+233    -8125.474121          0.0000          0.0000          0.0000          0.0000 
+232    -9108.710938          0.0000          0.0000          0.0000          0.0000 
+231    -10043.66602          0.0000          0.0000          0.0000          0.0000 
+230    -11178.88086          0.0000          0.0000          0.0000          0.0000 
+229    -12283.94336          0.0000          0.0000          0.0000          0.0000 
+228    -13170.24023          0.0000          0.0000          0.0000          0.0000 
+227    -14031.33789          0.0000          0.0000          0.0000          0.0000 
+226    -14577.65527          0.0000          0.0000          0.0000          0.0000 
+225    -15012.70508          0.0000          0.0000          0.0000          0.0000 
+224    -15450.25098          0.0000          0.0000          0.0000          0.0000 
+223    -15781.01953          0.0000          0.0000          0.0000          0.0000 
+222    -15691.78711          0.0000          0.0000          0.0000          0.0000 
+221    -15566.33008          0.0000          0.0000          0.0000          0.0000 
+220    -15600.75684          0.0000          0.0000          0.0000          0.0000 
+219    -15279.71094          0.0000          0.0000          0.0000          0.0000 
+218    -15250.23731          0.0000          0.0000          0.0000          0.0000 
+217    -15175.74609          0.0000          0.0000          0.0000          0.0000 
+216    -14868.78125          0.0000          0.0000          0.0000          0.0000 
+215    -14692.91309          0.0000          0.0000          0.0000          0.0000 
+214    -14690.73438          0.0000          0.0000          0.0000          0.0000 
+213    -14685.73926          0.0000          0.0000          0.0000          0.0000 
+212    -14589.11328          0.0000          0.0000          0.0000          0.0000 
+211    -14995.04981          0.0000          0.0000          0.0000          0.0000 
+210     -15329.5127          0.0000          0.0000          0.0000          0.0000 
+209    -15550.90332          0.0000          0.0000          0.0000          0.0000 
+208    -15474.10156          0.0000          0.0000          0.0000          0.0000 
+207    -14809.80859          0.0000          0.0000          0.0000          0.0000 
+206     -13579.2334          0.0000          0.0000          0.0000          0.0000 
+205    -12028.05273          0.0000          0.0000          0.0000          0.0000 
+204     -9754.72168          0.0000          0.0000          0.0000          0.0000 
+203    -7507.492188          0.0000          0.0000          0.0000          0.0000 
+202    -4776.893555          0.0000          0.0000          0.0000          0.0000 
+201    -1098.266602          0.0000          0.0000          0.0000          0.0000 
+200     2876.548828          0.0000          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+PCDDB-END

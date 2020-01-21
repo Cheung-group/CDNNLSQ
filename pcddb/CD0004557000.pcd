@@ -1,0 +1,313 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004557000
+FILE EXTRACTED                                              2019-07-30
+Protein Name                                                bovine collagen type II
+Alternative Protein Names                                   Collagen alpha-1(II) chain
+Source Organism                                             Bos taurus
+Protein Supplier                                            MD Bioproducts, USA
+Expression System or natural source                         purified from fetal bovine articular cartilage
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  0.1% SDS
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2014-12-19
+Dichroism Units of Raw Sample Data                          No data provided
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  SRCD
+Protein Concentration (mg/ml)                               2.5
+Concentration Quantification Method                         Nanodrop
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                No data provided
+Buffer Contents and Concentrations                          0.1% SDS
+Baseline Contents                                           0.1% SDS
+Experimental Temperature (C)                                25
+Instrument or beamline                                      ISA CD1
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.0015
+Cell Pathlength Calibration Method                          Interferometry
+Sample Cell Type                                            Cylindrical
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      3
+Continuous or Stepped scan                                  Stepped
+Maximum (highest) wavelength, nm                            260
+Minimum (lowest) wavelength, nm                             190
+Criteria for low wavelength cutoff                          HT value
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            No data provided
+Experimental Collection date                                2013-01-01
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  CSA
+Dichroism Units for CSA Standard                            Millidegrees (theta)
+Final Spectrum Calibrated                                   YES
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       2013-01-01
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            123469.7
+Number of Residues                                          1306
+Mean Residue Weight                                         94.6
+Data Processing Software Name                               CDTool
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  7
+Wavelength Range for Zeroing                                263-270
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  P02459
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    QMAGGFDEKA GGAQMGVMQG PMGPMGPRGP PGPAGAPGPQ GFQGNPGEPG EPGVSGPMGP RGPPGPPGKP GDDGEAGKPG KSGERGPPGP QGARGFPGTP GLPGVKGHRG YPGLDGAKGE AGAPGVKGES GSPGENGSPG PMGPRGLPGE RGRTGPAGAA GARGNDGQPG PAGPPGPVGP AGGPGFPGAP GAKGEAGPTG ARGPEGAQGP RGEPGTPGSP GPAGAAGNPG TDGIPGAKGS AGAPGIAGAP GFPGPRGPPG PQGATGPLGP KGQTGEPGIA GFKGEQGPKG EPGPAGPQGA PGPAGEEGKR GARGEPGGAG PAGPPGERGA PGNRGFPGQD GLAGPKGAPG ERGPSGLAGP KGANGDPGRP GEPGLPGARG LTGRPGDAGP QGKVGPSGAP GEDGRPGPPG PQGARGQPGV MGFPGPKGAN GEPGKAGEKG LPGAPGLRGL PGKDGETGAA GPPGPAGPAG ERGEQGAPGP SGFQGLPGPP GPPGEGGKPG DQGVPGEAGA PGLVGPRGER GFPGERGSPG SQGLQGARGL PGTPGTDGPK GAAGPAGPPG AQGPPGLQGM PGERGAAGIA GPKGDRGDVG EKGPEGAPGK DGGRGLTGPI GPPGPAGANG EKGEVGPPGP AGTAGARGAP GERGETGPPG PAGFAGPPGA DGQPGAKGEQ GEAGQKGDAG APGPQGPSGA PGPQGPTGVT GPKGARGAQG PPGATGFPGA AGRVGPPGSN GNPGPPGPPG PSGKDGPKGA RGDSGPPGRA GDPGLQGPAG PPGEKGEPGD DGPSGPDGPP GPQGLAGQRG IVGLPGQRGE RGFPGLPGPS GEPGKQGAPG ASGDRGPPGP VGPPGLTGPA GEPGREGSPG ADGPPGRDGA AGVKGDRGET GAVGAPGAPG PPGSPGPAGP IGKQGDRGEA GAQGPMGPAG PAGARGMPGP QGPRGDKGET GEAGERGLKG HRGFTGLQGL PGPPGPSGDQ GASGPAGPSG PRGPPGPVGP SGKDGANGIP GPIGPPGPRG RSGETGPAGP PGNPGPPGPP GPPGPGIDMS AFAGLGQREK GPDPLQYMRA DEAAGNLRQH DAEVDATLKS LNNQIESLRS PEGSRKNPAR TCRDLKLCHP EWKSGDYWID PNQGCTLDAM KVFCNMETGE TCVYPNPASV PKKNWWSSKS KDKKHIWFGE TINGGFHFSY GDDNLAPNTA NVQMTFLRLL STEGSQNITY HCKNSIAYLD EAAGNLKKAL LIQGSNDVEI RAEGNSRFTY TVLKDGCTKH TGKWGKTMIE YRSQKTSRLP IIDIAPMDIG GPEQEFGVDI GPVCFL 
+Type of protein                                             soluble fibrous
+Keyword/phrase A                                            Collagen alpha-1(II) chain
+Keyword/phrase B                                            collagen
+Keyword/phrase C                                            type II collagen 
+Keyword/phrase D                                            denatured
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         Jose L.S. Lopes, Andrew J. Miles, Lee Whitmore, B.A. Wallace
+Publication Year                                            2014
+Publication Journal                                         Protein Science
+Publication Title                                           Distinct circular dichroism spectroscopic signatures of polyproline II and unordered secondary structures:  Applications in secondary structure analyses.
+Publication Volume                                          23
+Publication Pages                                           1765-1772
+Depositor Name                                              Jose Lopes
+Department/School name                                      Crystallography
+University/Institution/Corporation                          Birkbeck College
+Depositor Country                                           U.K.
+Name of Principal Investigator (if not depositor)           BA Wallace
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+260.0     1.48158E-01          0.0000          0.0000          0.0000          0.0000 
+259.0    -1.55000E-01          0.0000          0.0000          0.0000          0.0000 
+258.0    -2.47369E-02          0.0000          0.0000          0.0000          0.0000 
+257.0     5.76316E-02          0.0000          0.0000          0.0000          0.0000 
+256.0     1.50000E-01          0.0000          0.0000          0.0000          0.0000 
+255.0     1.30187E-01          0.0000          0.0000          0.0000          0.0000 
+254.0     1.76294E-01          0.0000          0.0000          0.0000          0.0000 
+253.0     1.93432E-01          0.0000          0.0000          0.0000          0.0000 
+252.0     1.89565E-01          0.0000          0.0000          0.0000          0.0000 
+251.0     1.48474E-01          0.0000          0.0000          0.0000          0.0000 
+250.0     1.28519E-01          0.0000          0.0000          0.0000          0.0000 
+249.0     6.88401E-02          0.0000          0.0000          0.0000          0.0000 
+248.0     3.98890E-02          0.0000          0.0000          0.0000          0.0000 
+247.0    -1.41572E-02          0.0000          0.0000          0.0000          0.0000 
+246.0    -9.94358E-03          0.0000          0.0000          0.0000          0.0000 
+245.0    -4.78843E-02          0.0000          0.0000          0.0000          0.0000 
+244.0    -1.22667E-01          0.0000          0.0000          0.0000          0.0000 
+243.0    -2.01878E-01          0.0000          0.0000          0.0000          0.0000 
+242.0    -2.61291E-01          0.0000          0.0000          0.0000          0.0000 
+241.0    -3.33595E-01          0.0000          0.0000          0.0000          0.0000 
+240.0    -4.26501E-01          0.0000          0.0000          0.0000          0.0000 
+239.0    -5.21944E-01          0.0000          0.0000          0.0000          0.0000 
+238.0    -5.70815E-01          0.0000          0.0000          0.0000          0.0000 
+237.0    -6.39341E-01          0.0000          0.0000          0.0000          0.0000 
+236.0    -7.24758E-01          0.0000          0.0000          0.0000          0.0000 
+235.0    -8.50313E-01          0.0000          0.0000          0.0000          0.0000 
+234.0    -1.00492E+00          0.0000          0.0000          0.0000          0.0000 
+233.0    -1.15935E+00          0.0000          0.0000          0.0000          0.0000 
+232.0    -1.24610E+00          0.0000          0.0000          0.0000          0.0000 
+231.0    -1.30467E+00          0.0000          0.0000          0.0000          0.0000 
+230.0    -1.38518E+00          0.0000          0.0000          0.0000          0.0000 
+229.0    -1.40690E+00          0.0000          0.0000          0.0000          0.0000 
+228.0    -1.44737E+00          0.0000          0.0000          0.0000          0.0000 
+227.0    -1.51883E+00          0.0000          0.0000          0.0000          0.0000 
+226.0    -1.58492E+00          0.0000          0.0000          0.0000          0.0000 
+225.0    -1.61879E+00          0.0000          0.0000          0.0000          0.0000 
+224.0    -1.62983E+00          0.0000          0.0000          0.0000          0.0000 
+223.0    -1.66395E+00          0.0000          0.0000          0.0000          0.0000 
+222.0    -1.67509E+00          0.0000          0.0000          0.0000          0.0000 
+221.0    -1.67912E+00          0.0000          0.0000          0.0000          0.0000 
+220.0    -1.77279E+00          0.0000          0.0000          0.0000          0.0000 
+219.0    -1.94899E+00          0.0000          0.0000          0.0000          0.0000 
+218.0    -2.24431E+00          0.0000          0.0000          0.0000          0.0000 
+217.0    -2.55218E+00          0.0000          0.0000          0.0000          0.0000 
+216.0    -2.95128E+00          0.0000          0.0000          0.0000          0.0000 
+215.0    -3.37616E+00          0.0000          0.0000          0.0000          0.0000 
+214.0    -3.83031E+00          0.0000          0.0000          0.0000          0.0000 
+213.0    -4.41073E+00          0.0000          0.0000          0.0000          0.0000 
+212.0    -5.15267E+00          0.0000          0.0000          0.0000          0.0000 
+211.0    -6.09616E+00          0.0000          0.0000          0.0000          0.0000 
+210.0    -7.19265E+00          0.0000          0.0000          0.0000          0.0000 
+209.0    -8.39610E+00          0.0000          0.0000          0.0000          0.0000 
+208.0    -9.61617E+00          0.0000          0.0000          0.0000          0.0000 
+207.0    -1.07327E+01          0.0000          0.0000          0.0000          0.0000 
+206.0    -1.18689E+01          0.0000          0.0000          0.0000          0.0000 
+205.0    -1.30447E+01          0.0000          0.0000          0.0000          0.0000 
+204.0    -1.40904E+01          0.0000          0.0000          0.0000          0.0000 
+203.0    -1.51129E+01          0.0000          0.0000          0.0000          0.0000 
+202.0    -1.59936E+01          0.0000          0.0000          0.0000          0.0000 
+201.0    -1.66576E+01          0.0000          0.0000          0.0000          0.0000 
+200.0    -1.69532E+01          0.0000          0.0000          0.0000          0.0000 
+199.0    -1.69633E+01          0.0000          0.0000          0.0000          0.0000 
+198.0    -1.66699E+01          0.0000          0.0000          0.0000          0.0000 
+197.0    -1.59257E+01          0.0000          0.0000          0.0000          0.0000 
+196.0    -1.48382E+01          0.0000          0.0000          0.0000          0.0000 
+195.0    -1.36330E+01          0.0000          0.0000          0.0000          0.0000 
+194.0    -1.23753E+01          0.0000          0.0000          0.0000          0.0000 
+193.0    -1.09843E+01          0.0000          0.0000          0.0000          0.0000 
+192.0    -9.34600E+00          0.0000          0.0000          0.0000          0.0000 
+191.0    -7.71778E+00          0.0000          0.0000          0.0000          0.0000 
+190.0    -6.18293E+00          0.0000          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+320.0     5.02625E-01
+319.0     7.54125E-01
+318.0     9.93125E-01
+317.0     1.15634E+00
+316.0     1.36815E+00
+315.0     1.66039E+00
+314.0     2.06027E+00
+313.0     2.60024E+00
+312.0     3.30108E+00
+311.0     3.92489E+00
+310.0     4.80870E+00
+309.0     5.76751E+00
+308.0     6.83648E+00
+307.0     7.94612E+00
+306.0     9.02632E+00
+305.0     1.01189E+01
+304.0     1.12402E+01
+303.0     1.24121E+01
+302.0     1.36258E+01
+301.0     1.48193E+01
+300.0     1.58893E+01
+299.0     1.69155E+01
+298.0     1.77097E+01
+297.0     1.84363E+01
+296.0     1.90388E+01
+295.0     1.96178E+01
+294.0     2.01105E+01
+293.0     2.05781E+01
+292.0     2.08686E+01
+291.0     2.08633E+01
+290.0     2.08091E+01
+289.0     2.06772E+01
+288.0     2.04628E+01
+287.0     2.01881E+01
+286.0     1.97462E+01
+285.0     1.90194E+01
+284.0     1.84011E+01
+283.0     1.78134E+01
+282.0     1.71515E+01
+281.0     1.65023E+01
+280.0     1.58320E+01
+279.0     1.50382E+01
+278.0     1.43046E+01
+277.0     1.34934E+01
+276.0     1.25871E+01
+275.0     1.16461E+01
+274.0     1.07543E+01
+273.0     9.91279E+00
+272.0     9.17586E+00
+271.0     8.46513E+00
+270.0     7.83722E+00
+269.0     7.22079E+00
+268.0     6.65222E+00
+267.0     6.12805E+00
+266.0     5.59532E+00
+265.0     5.03386E+00
+264.0     4.37424E+00
+263.0     3.70413E+00
+262.0     3.21922E+00
+261.0     2.91963E+00
+260.0     2.63110E+00
+259.0     2.44558E+00
+258.0     2.01479E+00
+257.0     1.43389E+00
+256.0     1.25646E+00
+255.0     1.23955E+00
+254.0     1.19534E+00
+253.0     1.28655E+00
+252.0     1.08448E+00
+251.0     7.34077E-01
+250.0     5.49292E-01
+249.0     4.86530E-01
+248.0     3.57458E-01
+247.0     3.82077E-01
+246.0     3.75816E-01
+245.0     2.95482E-01
+244.0     1.00363E-01
+243.0    -5.25893E-02
+242.0    -1.68423E-01
+241.0    -1.98161E-01
+240.0    -6.03750E-02
+239.0    -6.05655E-02
+238.0    -1.22613E-01
+237.0    -1.06470E-01
+236.0    -1.88036E-02
+235.0     3.17917E-02
+234.0     2.02244E-01
+233.0     1.91411E-01
+232.0     3.69107E-02
+231.0    -7.10417E-02
+230.0    -2.31161E-01
+229.0    -2.17923E-01
+228.0    -8.75655E-02
+227.0    -4.34226E-02
+226.0    -5.31369E-02
+225.0    -2.27083E-02
+224.0     5.46964E-02
+223.0     1.17411E-01
+222.0     5.58155E-02
+221.0    -1.88589E-01
+220.0    -5.38613E-01
+219.0    -8.03066E-01
+218.0    -9.22137E-01
+217.0    -1.04257E+00
+216.0    -1.41611E+00
+215.0    -1.75954E+00
+214.0    -2.24266E+00
+213.0    -2.80290E+00
+212.0    -3.71826E+00
+211.0    -4.83752E+00
+210.0    -6.17890E+00
+209.0    -7.32540E+00
+208.0    -8.49038E+00
+207.0    -1.00500E+01
+206.0    -1.20239E+01
+205.0    -1.40789E+01
+204.0    -1.61990E+01
+203.0    -1.82790E+01
+202.0    -2.06230E+01
+201.0    -2.33845E+01
+200.0    -2.60590E+01
+199.0    -2.87585E+01
+198.0    -3.13779E+01
+197.0    -3.37123E+01
+196.0    -3.59678E+01
+195.0    -3.77784E+01
+194.0    -3.89764E+01
+193.0    -3.98554E+01
+192.0    -4.02579E+01
+191.0    -4.02897E+01
+190.0    -4.00411E+01
+189.0    -3.93139E+01
+188.0    -3.80765E+01
+187.0    -3.64118E+01
+186.0    -3.45934E+01
+185.0    -3.28856E+01
+184.0    -3.12936E+01
+183.0    -2.94094E+01
+182.0    -2.75394E+01
+181.0    -2.55751E+01
+180.0    -2.35166E+01
+PCDDB-END

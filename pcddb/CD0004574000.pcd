@@ -1,0 +1,443 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004574000
+FILE EXTRACTED                                              2019-12-24
+Protein Name                                                Aminoglycoside adenylyltransferase
+Alternative Protein Names                                   AadA6
+Source Organism                                             Pseudomonas aeruginosa Ps100
+Protein Supplier                                            Structural Biology (Petratos Lab) at IMBB-FoRTH, Heraklion
+Expression System or natural source                         E. coli
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  No data provided
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2014-12-04
+Dichroism Units of Raw Sample Data                          Millidegrees (theta)
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               0.2
+Concentration Quantification Method                         A280 or A280-denatured
+Protein Purity (%)                                          95
+Purity Quantification Method                                SDS gels
+Buffer Contents and Concentrations                          Potassium Phosphate pH 7.5, 50 mM; Na2SO4, 150 mM 
+Baseline Contents                                           Potassium Phosphate pH 7.5, 50 mM; Na2SO4, 150 mM 
+Experimental Temperature (C)                                10
+Instrument or beamline                                      Jasco
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.1
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Rectangular
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      4
+Continuous or Stepped scan                                  ---- Please sele
+Maximum (highest) wavelength, nm                            350
+Minimum (lowest) wavelength, nm                             190
+Criteria for low wavelength cutoff                          No data provided
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            No data provided
+Experimental Collection date                                2012-07-03
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            30807.2
+Number of Residues                                          281
+Mean Residue Weight                                         110.0
+Data Processing Software Name                               home made
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  0
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  Q9RGC2
+Enzyme Classification (EC)                                  2.7.7.47
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    MSNAVPAEIS VQLSLALNAI ERHLESTLLA VHLYGSALDG GLKPYSDIDL LVTVAARLDE TVRQALVVDL LEISASPGQS EALRALEVTI VVHGDVVPWR YPARRELQFG EWQRKDILAG IFEPATTDVD LAILLTKVRQ HSLALAGSAA EDFFNPVPEG DLFKALSDTL KLWNSQPDWE GDERNVVLTL SRIWYSAATG KIAPKDIVAN WAMERLPDQH KPVLLEARQA YLGQGEDCLA SRADQLAAFV HFVKHEATKL LSAMPVMSNN SFKPTPLRGA A 
+Type of protein                                             soluble globular
+Keyword/phrase A                                            AadA6
+Keyword/phrase B                                            Aminoglycoside adenylyltransferase
+Keyword/phrase C                                            Streptomycin adenylyltransferase
+Keyword/phrase D                                            Streptomycin 3"-O-nucleotidyltransferase
+Keyword/phrase E                                            ANT3"
+Keyword/phrase F                                            antibiotic modification
+Keyword/phrase G                                            antibiotic resistance
+Keyword/phrase H                                            Pseudomonas aeruginosa
+Keyword/phrase I                                            doi: 10.1016/j.bbrep.2015.09.011
+Keyword/phrase J                                            No data provided
+Publication Authors                                         Maria Papadovasilaki,  Dominik Oberthür, Renate Gessmann, Iosifina Sarrou, Christian Betzel, Effie Scoulica, Kyriacos Petratos
+Publication Year                                            2015
+Publication Journal                                         Biochemistry and Biophysics Reports
+Publication Title                                           Biophysical and enzymatic properties of aminoglycoside adenylyltransferase AadA6 from Pseudomonas aeruginosa.
+Publication Volume                                          4
+Publication Pages                                           152-157
+Depositor Name                                              Kyriacos PETRATOS
+Department/School name                                      Structural Biology
+University/Institution/Corporation                          Institute of Mol. Biol. & Biotechnology- FoRTH
+Depositor Country                                           Greece
+Name of Principal Investigator (if not depositor)           PI
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+350        -0.21194          286.068          0.0000          0.0000          0.0000 
+349        -0.14153          285.397          0.0000          0.0000          0.0000 
+348        -0.35136          284.759          0.0000          0.0000          0.0000 
+347        -0.20191          284.115          0.0000          0.0000          0.0000 
+346        -0.02652          283.465          0.0000          0.0000          0.0000 
+345        -0.44646          282.823          0.0000          0.0000          0.0000 
+344         -0.2618          282.126          0.0000          0.0000          0.0000 
+343        -0.30148          281.623          0.0000          0.0000          0.0000 
+342        -0.19863          281.086          0.0000          0.0000          0.0000 
+341        -0.30704          280.551          0.0000          0.0000          0.0000 
+340        -0.23583          280.049          0.0000          0.0000          0.0000 
+339        -0.15171          279.496          0.0000          0.0000          0.0000 
+338        -0.07643          279.029          0.0000          0.0000          0.0000 
+337        -0.21426          278.618          0.0000          0.0000          0.0000 
+336        -0.27158          278.255          0.0000          0.0000          0.0000 
+335        -0.23896          277.911          0.0000          0.0000          0.0000 
+334        -0.22149          277.604          0.0000          0.0000          0.0000 
+333        -0.18209          277.307          0.0000          0.0000          0.0000 
+332         -0.2809          277.049          0.0000          0.0000          0.0000 
+331        -0.22491          276.784          0.0000          0.0000          0.0000 
+330        -0.12595           276.56          0.0000          0.0000          0.0000 
+329        -0.13776          276.327          0.0000          0.0000          0.0000 
+328         -0.1958           276.12          0.0000          0.0000          0.0000 
+327        -0.10866          275.928          0.0000          0.0000          0.0000 
+326        -0.08609           275.73          0.0000          0.0000          0.0000 
+325        -0.17281          275.529          0.0000          0.0000          0.0000 
+324        -0.09434           275.27          0.0000          0.0000          0.0000 
+323        -0.18266          274.891          0.0000          0.0000          0.0000 
+322        -0.08594          274.658          0.0000          0.0000          0.0000 
+321         0.02683          274.722          0.0000          0.0000          0.0000 
+320        -0.09654          274.689          0.0000          0.0000          0.0000 
+319         -0.2754          274.572          0.0000          0.0000          0.0000 
+318        -0.19916          274.473          0.0000          0.0000          0.0000 
+317        -0.06979          274.361          0.0000          0.0000          0.0000 
+316         0.00016          274.229          0.0000          0.0000          0.0000 
+315        -0.14669          274.122          0.0000          0.0000          0.0000 
+314        -0.09142          273.959          0.0000          0.0000          0.0000 
+313        -0.11945          273.774          0.0000          0.0000          0.0000 
+312        -0.11634          273.647          0.0000          0.0000          0.0000 
+311        -0.09894          273.738          0.0000          0.0000          0.0000 
+310         -0.3915          273.893          0.0000          0.0000          0.0000 
+309        -0.17411          273.944          0.0000          0.0000          0.0000 
+308        -0.12027          273.995          0.0000          0.0000          0.0000 
+307        -0.20126          274.038          0.0000          0.0000          0.0000 
+306        -0.09055           274.12          0.0000          0.0000          0.0000 
+305        -0.36038          274.234          0.0000          0.0000          0.0000 
+304        -0.34381           274.36          0.0000          0.0000          0.0000 
+303        -0.25598          274.514          0.0000          0.0000          0.0000 
+302        -0.25496          274.682          0.0000          0.0000          0.0000 
+301         -0.2531          274.896          0.0000          0.0000          0.0000 
+300        -0.26258            275.1          0.0000          0.0000          0.0000 
+299        -0.19667          275.346          0.0000          0.0000          0.0000 
+298        -0.14619           275.65          0.0000          0.0000          0.0000 
+297        -0.25078          275.964          0.0000          0.0000          0.0000 
+296        -0.23945          276.322          0.0000          0.0000          0.0000 
+295        -0.31714          276.689          0.0000          0.0000          0.0000 
+294        -0.15207          277.123          0.0000          0.0000          0.0000 
+293        -0.22108          277.599          0.0000          0.0000          0.0000 
+292        -0.25077          277.982          0.0000          0.0000          0.0000 
+291        -0.20905          278.026          0.0000          0.0000          0.0000 
+290        -0.09316          278.401          0.0000          0.0000          0.0000 
+289        -0.06632          279.164          0.0000          0.0000          0.0000 
+288        -0.24378          279.519          0.0000          0.0000          0.0000 
+287        -0.18625          279.858          0.0000          0.0000          0.0000 
+286        -0.14317           280.37          0.0000          0.0000          0.0000 
+285        -0.10202          280.918          0.0000          0.0000          0.0000 
+284        -0.11606          281.407          0.0000          0.0000          0.0000 
+283          0.0676          281.811          0.0000          0.0000          0.0000 
+282         -0.0698          282.135          0.0000          0.0000          0.0000 
+281        -0.18739          282.303          0.0000          0.0000          0.0000 
+280        -0.09323          282.405          0.0000          0.0000          0.0000 
+279        -0.05146          282.602          0.0000          0.0000          0.0000 
+278        -0.16129          282.853          0.0000          0.0000          0.0000 
+277        -0.16954          283.097          0.0000          0.0000          0.0000 
+276        -0.23552          283.338          0.0000          0.0000          0.0000 
+275        -0.23828          283.597          0.0000          0.0000          0.0000 
+274        -0.09533           283.78          0.0000          0.0000          0.0000 
+273        -0.07847          283.926          0.0000          0.0000          0.0000 
+272        -0.10941          284.065          0.0000          0.0000          0.0000 
+271          -0.143          284.237          0.0000          0.0000          0.0000 
+270         0.15161          284.476          0.0000          0.0000          0.0000 
+269        -0.08581          284.789          0.0000          0.0000          0.0000 
+268        -0.18593           285.13          0.0000          0.0000          0.0000 
+267        -0.13658          285.482          0.0000          0.0000          0.0000 
+266        -0.12563          285.868          0.0000          0.0000          0.0000 
+265        -0.06677          286.344          0.0000          0.0000          0.0000 
+264        -0.11727           286.86          0.0000          0.0000          0.0000 
+263        -0.09244          287.384          0.0000          0.0000          0.0000 
+262         0.00497          287.951          0.0000          0.0000          0.0000 
+261         0.15733          288.569          0.0000          0.0000          0.0000 
+260         0.13408          289.217          0.0000          0.0000          0.0000 
+259        -0.03231          289.956          0.0000          0.0000          0.0000 
+258          0.0511          290.712          0.0000          0.0000          0.0000 
+257          0.1225          291.429          0.0000          0.0000          0.0000 
+256         -0.0216           292.15          0.0000          0.0000          0.0000 
+255         0.04064          292.892          0.0000          0.0000          0.0000 
+254         0.08828          293.649          0.0000          0.0000          0.0000 
+253         0.04295          294.433          0.0000          0.0000          0.0000 
+252        -0.02855          295.237          0.0000          0.0000          0.0000 
+251        -0.08627          296.067          0.0000          0.0000          0.0000 
+250         0.03403          296.927          0.0000          0.0000          0.0000 
+249         0.16027          297.808          0.0000          0.0000          0.0000 
+248         0.08983          298.724          0.0000          0.0000          0.0000 
+247        -0.22981           299.69          0.0000          0.0000          0.0000 
+246         -0.4351          300.804          0.0000          0.0000          0.0000 
+245        -0.46299          301.989          0.0000          0.0000          0.0000 
+244        -0.68075          303.259          0.0000          0.0000          0.0000 
+243       -1.164222          304.704          0.0000          0.0000          0.0000 
+242       -1.397667          306.292          0.0000          0.0000          0.0000 
+241       -2.113674          308.049          0.0000          0.0000          0.0000 
+240        -2.60742          310.018          0.0000          0.0000          0.0000 
+239        -3.46894          312.157          0.0000          0.0000          0.0000 
+238        -4.51826          314.472          0.0000          0.0000          0.0000 
+237        -5.34071          317.091          0.0000          0.0000          0.0000 
+236        -6.64904          319.992          0.0000          0.0000          0.0000 
+235         -7.8523          323.231          0.0000          0.0000          0.0000 
+234       -9.322577          326.836          0.0000          0.0000          0.0000 
+233      -10.628583          330.866          0.0000          0.0000          0.0000 
+232      -11.608127          335.303          0.0000          0.0000          0.0000 
+231      -13.349113          340.147          0.0000          0.0000          0.0000 
+230      -14.721665          345.105          0.0000          0.0000          0.0000 
+229      -16.250127          350.139          0.0000          0.0000          0.0000 
+228      -18.499522          355.246          0.0000          0.0000          0.0000 
+227      -20.935638          360.026          0.0000          0.0000          0.0000 
+226      -23.671696          364.559          0.0000          0.0000          0.0000 
+225      -25.881534          368.967          0.0000          0.0000          0.0000 
+224      -28.067078          373.266          0.0000          0.0000          0.0000 
+223       -29.83709          377.451          0.0000          0.0000          0.0000 
+222        -31.0243          381.633          0.0000          0.0000          0.0000 
+221       -32.15726          385.831          0.0000          0.0000          0.0000 
+220       -33.26631          390.058          0.0000          0.0000          0.0000 
+219       -33.87161          394.314          0.0000          0.0000          0.0000 
+218       -34.35727          398.593          0.0000          0.0000          0.0000 
+217        -34.3929          403.046          0.0000          0.0000          0.0000 
+216       -34.19324          407.759          0.0000          0.0000          0.0000 
+215       -34.17167            412.9          0.0000          0.0000          0.0000 
+214       -34.58969          418.599          0.0000          0.0000          0.0000 
+213       -34.70733          425.063          0.0000          0.0000          0.0000 
+212       -35.46785          432.488          0.0000          0.0000          0.0000 
+211       -36.81832          440.953          0.0000          0.0000          0.0000 
+210        -37.5177          450.585          0.0000          0.0000          0.0000 
+209       -38.00519          461.586          0.0000          0.0000          0.0000 
+208       -38.24652          474.212          0.0000          0.0000          0.0000 
+207      -37.667339          488.638          0.0000          0.0000          0.0000 
+206     -34.3393149          504.849          0.0000          0.0000          0.0000 
+205      -28.619784          523.026          0.0000          0.0000          0.0000 
+204      -22.828133          543.419          0.0000          0.0000          0.0000 
+203       -14.98236          566.178          0.0000          0.0000          0.0000 
+202        -6.86929          591.709          0.0000          0.0000          0.0000 
+201        2.301762           620.25          0.0000          0.0000          0.0000 
+200        13.84299          652.074          0.0000          0.0000          0.0000 
+199        24.42915          687.869          0.0000          0.0000          0.0000 
+198        37.62815          728.352          0.0000          0.0000          0.0000 
+197        48.32456           774.13          0.0000          0.0000          0.0000 
+196        57.14929          824.254          0.0000          0.0000          0.0000 
+195        63.54976          876.287          0.0000          0.0000          0.0000 
+194         73.3374          928.214          0.0000          0.0000          0.0000 
+193        58.57527          979.059          0.0000          0.0000          0.0000 
+192        34.27868          1009.73          0.0000          0.0000          0.0000 
+191        26.60084          1013.58          0.0000          0.0000          0.0000 
+190        10.84499          1013.52          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+         0.0000
+PCDDB-END

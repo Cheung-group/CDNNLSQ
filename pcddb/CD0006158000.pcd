@@ -1,0 +1,524 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0006158000
+FILE EXTRACTED                                              2019-07-30
+Protein Name                                                Acetomicrobium hydrogeniformans esterase
+Alternative Protein Names                                   AhEst recombinant protein
+Source Organism                                             Acetomicrobium hydrogeniformans
+Protein Supplier                                            APU Araujo, IF-USP, Brazil
+Expression System or natural source                         E. coli
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    hexahistidineSUMO protein, cleaved
+Ligands Present and Concentration or ratio                  no ligands
+Macromolecular Partner(s) and Concentration or ratio        no partner
+Deposition Date                                             2018-08-17
+Dichroism Units of Raw Sample Data                          Millidegrees (theta)
+Dichroism Units of Raw Baseline Data                        Millidegrees (theta)
+Dichroism Units of Average Sample Data                      Millidegrees (theta)
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  SRCD
+Protein Concentration (mg/ml)                               0.7
+Concentration Quantification Method                         Nanodrop
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                SDS gels
+Buffer Contents and Concentrations                          10 mM sodium phosphate (pH 7.0)
+Baseline Contents                                           10 mM sodium phosphate (pH 7.0)
+Experimental Temperature (C)                                25
+Instrument or beamline                                      ISA CD1
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.0098
+Cell Pathlength Calibration Method                          Interferometry
+Sample Cell Type                                            Cylindrical
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      3
+Continuous or Stepped scan                                  Stepped
+Maximum (highest) wavelength, nm                            280
+Minimum (lowest) wavelength, nm                             170
+Criteria for low wavelength cutoff                          HT value
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            2
+Experimental Collection date                                2016-11-01
+Local Spectrum Identifier                                   52298
+CSA or ACS                                                  CSA
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   YES
+CSA/ACS Standard Concentration (mg/ml)                      7.4
+CSA/ACS Pathlength (mm)                                     0.099
+CSA/ACS Zeroed at                                           230-235
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        2.07
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           25
+Molecular Weight                                            28287.94
+Number of Residues                                          256
+Mean Residue Weight                                         110.9
+Data Processing Software Name                               CDTool
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  7
+Wavelength Range for Zeroing                                263-270
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      no
+UniProt ID                                                  A0A0T5X9X1
+Enzyme Classification (EC)                                  3.1.1.x
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    GLAGTNPLLQ RAEGAQTLKE EIITYNHEDT VLEGYLVYEE SVKDKRPGVI IIHEWMGLSE YEKMRARQIA ELGYVAFAAD IYGKGVRPKN ADEAAQLAGK FRSDRNLLRE RGQAALSVLQ NHPLVDPERI ATMGYCFGGG ASLELARSGA PIRGAISFHG NLDTPNPDDA KNIKGSILVL HGADDPMVPM EQVIAFQEEM RSANVDWQMI FYGNTVHSFT NPNAGNNPEI GVAYNPISER RSFEAMKAFF DEIFAK 
+Type of protein                                             soluble globular
+Keyword/phrase A                                            esterase
+Keyword/phrase B                                            enhanced oil recovery (EOR)
+Keyword/phrase C                                            enzyme
+Keyword/phrase D                                            thermo stable protein
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         Kumagai PS, Gutierrez RF, Lopes JLS, Martins JM, Jameson DM, Castro AM, Martins LF, DeMarco R, Bossolan NRS, Wallace BA, Araujo APU
+Publication Year                                            2018
+Publication Journal                                         Extremophile
+Publication Title                                           Characterization of esterase activity from an Acetomicrobium hydrogeniformans enzyme with high structural stability in extreme conditions
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              Jose Lopes
+Department/School name                                      Crystallography
+University/Institution/Corporation                          Birkbeck College
+Depositor Country                                           U.K.
+Name of Principal Investigator (if not depositor)           BA Wallace
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+270      -0.0066672           2.7427           2.7427           2.7427           2.7427 
+269      -0.0066031           2.7445           2.7445           2.7445           2.7445 
+268       -0.020623           2.7461           2.7461           2.7461           2.7461 
+267      -0.0091904           2.7476           2.7476           2.7476           2.7476 
+266       0.0031428           2.7494           2.7494           2.7494           2.7494 
+265        0.036555           2.7512           2.7512           2.7512           2.7512 
+264        0.050629           2.7528           2.7528           2.7528           2.7528 
+263        0.016033           2.7546           2.7546           2.7546           2.7546 
+262       0.0043105           2.7561           2.7561           2.7561           2.7561 
+261       0.0075693           2.7580           2.7580           2.7580           2.7580 
+260        0.023276           2.7598           2.7598           2.7598           2.7598 
+259        0.035395           2.7616           2.7616           2.7616           2.7616 
+258        0.044752           2.7631           2.7631           2.7631           2.7631 
+257        0.039471           2.7647           2.7647           2.7647           2.7647 
+256        0.023497           2.7662           2.7662           2.7662           2.7662 
+255        0.021688           2.7677           2.7677           2.7677           2.7677 
+254        0.017964           2.7692           2.7692           2.7692           2.7692 
+253       0.0043868           2.7702           2.7702           2.7702           2.7702 
+252       -0.032155           2.7714           2.7714           2.7714           2.7714 
+251       -0.042046           2.7723           2.7723           2.7723           2.7723 
+250       -0.056569           2.7735           2.7735           2.7735           2.7735 
+249       -0.059286           2.7744           2.7744           2.7744           2.7744 
+248        -0.10269           2.7750           2.7750           2.7750           2.7750 
+247        -0.14872           2.7760           2.7760           2.7760           2.7760 
+246        -0.16723           2.7766           2.7766           2.7766           2.7766 
+245        -0.17591           2.7772           2.7772           2.7772           2.7772 
+244        -0.22755           2.7778           2.7778           2.7778           2.7778 
+243        -0.26977           2.7784           2.7784           2.7784           2.7784 
+242        -0.36718           2.7790           2.7790           2.7790           2.7790 
+241        -0.51783           2.7793           2.7793           2.7793           2.7793 
+240        -0.60629           2.7799           2.7799           2.7799           2.7799 
+239        -0.69813           2.7808           2.7808           2.7808           2.7808 
+238         -0.8639           2.7818           2.7818           2.7818           2.7818 
+237         -1.0187           2.7833           2.7833           2.7833           2.7833 
+236         -1.2523           2.7848           2.7848           2.7848           2.7848 
+235         -1.5412           2.7873           2.7873           2.7873           2.7873 
+234         -1.8105           2.7897           2.7897           2.7897           2.7897 
+233         -2.0717           2.7924           2.7924           2.7924           2.7924 
+232         -2.3579           2.7958           2.7958           2.7958           2.7958 
+231          -2.657           2.7989           2.7989           2.7989           2.7989 
+230         -2.9293           2.8019           2.8019           2.8019           2.8019 
+229         -3.1772           2.7946           2.7946           2.7946           2.7946 
+228         -3.4071           2.7973           2.7973           2.7973           2.7973 
+227         -3.6084           2.8004           2.8004           2.8004           2.8004 
+226          -3.802           2.8031           2.8031           2.8031           2.8031 
+225         -3.9908           2.8062           2.8062           2.8062           2.8062 
+224         -4.1264           2.8092           2.8092           2.8092           2.8092 
+223         -4.1819           2.8123           2.8123           2.8123           2.8123 
+222         -4.1937           2.8159           2.8159           2.8159           2.8159 
+221         -4.1815           2.8199           2.8199           2.8199           2.8199 
+220         -4.1595           2.8242           2.8242           2.8242           2.8242 
+219         -4.1597           2.8282           2.8282           2.8282           2.8282 
+218         -4.1572           2.8315           2.8315           2.8315           2.8315 
+217         -4.1332           2.8349           2.8349           2.8349           2.8349 
+216          -4.101           2.8385           2.8385           2.8385           2.8385 
+215         -4.0545           2.8419           2.8419           2.8419           2.8419 
+214         -4.0259           2.8455           2.8455           2.8455           2.8455 
+213         -4.0456           2.8486           2.8486           2.8486           2.8486 
+212         -4.0453           2.8526           2.8526           2.8526           2.8526 
+211         -4.1175           2.8568           2.8568           2.8568           2.8568 
+210         -4.1881           2.8623           2.8623           2.8623           2.8623 
+209         -4.1909           2.8687           2.8687           2.8687           2.8687 
+208         -4.1117           2.8770           2.8770           2.8770           2.8770 
+207         -3.8861           2.8874           2.8874           2.8874           2.8874 
+206          -3.419           2.9002           2.9002           2.9002           2.9002 
+205         -2.7935           2.9157           2.9157           2.9157           2.9157 
+204         -1.9925           2.9337           2.9337           2.9337           2.9337 
+203         -1.0745           2.9545           2.9545           2.9545           2.9545 
+202       -0.013457           2.9768           2.9768           2.9768           2.9768 
+201          1.0808           3.0000           3.0000           3.0000           3.0000 
+200            2.26           3.0259           3.0259           3.0259           3.0259 
+199          3.4606           3.0528           3.0528           3.0528           3.0528 
+198           4.682           3.0815           3.0815           3.0815           3.0815 
+197          5.9071           3.1104           3.1104           3.1104           3.1104 
+196           7.054           3.1388           3.1388           3.1388           3.1388 
+195          7.9535           3.1635           3.1635           3.1635           3.1635 
+194          8.6284           3.1809           3.1809           3.1809           3.1809 
+193          8.9816           3.1919           3.1919           3.1919           3.1919 
+192           9.104           3.1974           3.1974           3.1974           3.1974 
+191          8.9705           3.1977           3.1977           3.1977           3.1977 
+190          8.5829           3.1916           3.1916           3.1916           3.1916 
+189          7.9868           3.1806           3.1806           3.1806           3.1806 
+188           7.242           3.1663           3.1663           3.1663           3.1663 
+187          6.3611           3.1504           3.1504           3.1504           3.1504 
+186          5.3724           3.1343           3.1343           3.1343           3.1343 
+185          4.2862           3.1211           3.1211           3.1211           3.1211 
+184          3.2567           3.1117           3.1117           3.1117           3.1117 
+183          2.3076           3.1104           3.1104           3.1104           3.1104 
+182           1.444           3.1199           3.1199           3.1199           3.1199 
+181          0.7378           3.1458           3.1458           3.1458           3.1458 
+180        0.098832           3.1953           3.1953           3.1953           3.1953 
+179        -0.46206           3.2810           3.2810           3.2810           3.2810 
+178        -0.83846           3.4263           3.4263           3.4263           3.4263 
+177         -1.2407           3.6674           3.6674           3.6674           3.6674 
+176         -1.4107           4.0971           4.0971           4.0971           4.0971 
+175         -0.9466           4.8851           4.8851           4.8851           4.8851 
+174        -0.56947           6.1156           6.1156           6.1156           6.1156 
+173        -0.36388           6.7333           6.7333           6.7333           6.7333 
+172        -0.10306           6.8084           6.8084           6.8084           6.8084 
+171        -0.16042           6.8435           6.8435           6.8435           6.8435 
+170        -0.21855           6.8694           6.8694           6.8694           6.8694 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+330          0.1908
+0.00000\                
+329         0.16336
+0.00000\                
+328         0.14417
+0.00000\                
+327        0.063981
+0.00000\                
+326        0.022219
+0.00000\                
+325        0.013886
+0.00000\                
+324         0.13522
+0.00000\                
+323         0.23103
+0.00000\                
+322         0.23622
+0.00000\                
+321         0.44065
+0.00000\                
+320         0.60593
+0.00000\                
+319          0.8307
+0.00000\                
+318          1.1059
+0.00000\                
+317          1.3423
+0.00000\                
+316          1.6553
+0.00000\                
+315          2.0753
+0.00000\                
+314          2.6054
+0.00000\                
+313          3.2082
+0.00000\                
+312          3.9701
+0.00000\                
+311          4.9113
+0.00000\                
+310          6.0019
+0.00000\                
+309          7.0599
+0.00000\                
+308          8.3299
+0.00000\                
+307          9.6259
+0.00000\                
+306          11.003
+0.00000\                
+305          12.481
+0.00000\                
+304          13.683
+0.00000\                
+303          14.837
+0.00000\                
+302          16.102
+0.00000\                
+301           17.36
+0.00000\                
+300          18.535
+0.00000\                
+299          19.715
+0.00000\                
+298          20.664
+0.00000\                
+297          21.528
+0.00000\                
+296          22.331
+0.00000\                
+295          22.876
+0.00000\                
+294          23.353
+0.00000\                
+293          23.741
+0.00000\                
+292          24.044
+0.00000\                
+291          24.316
+0.00000\                
+290          24.326
+0.00000\                
+289          24.125
+0.00000\                
+288          23.777
+0.00000\                
+287          23.335
+0.00000\                
+286          22.664
+0.00000\                
+285          22.198
+0.00000\                
+284          21.531
+0.00000\                
+283           20.97
+0.00000\                
+282           20.12
+0.00000\                
+281          19.205
+0.00000\                
+280          18.106
+0.00000\                
+279          17.078
+0.00000\                
+278          16.081
+0.00000\                
+277          15.144
+0.00000\                
+276          14.094
+0.00000\                
+275          12.981
+0.00000\                
+274          12.061
+0.00000\                
+273          11.213
+0.00000\                
+272          10.447
+0.00000\                
+271          9.6052
+0.00000\                
+270          8.8425
+0.00000\                
+269          8.0388
+0.00000\                
+268          7.3639
+0.00000\                
+267          6.7413
+0.00000\                
+266          5.9951
+0.00000\                
+265          5.3153
+0.00000\                
+264          4.8104
+0.00000\                
+263          4.2894
+0.00000\                
+262          3.8235
+0.00000\                
+261          3.4443
+0.00000\                
+260          3.0684
+0.00000\                
+259          2.7596
+0.00000\                
+258          2.4636
+0.00000\                
+257           2.149
+0.00000\                
+256          1.8658
+0.00000\                
+255           1.596
+0.00000\                
+254          1.4408
+0.00000\                
+253          1.2567
+0.00000\                
+252          1.0418
+0.00000\                
+251         0.91408
+0.00000\                
+250         0.74574
+0.00000\                
+249         0.58965
+0.00000\                
+248         0.50336
+0.00000\                
+247         0.39793
+0.00000\                
+246          0.3466
+0.00000\                
+245         0.35612
+0.00000\                
+244          0.3167
+0.00000\                
+243         0.26941
+0.00000\                
+242          0.3107
+0.00000\                
+241         0.24612
+0.00000\                
+240         0.17698
+0.00000\                
+239        0.049743
+0.00000\                
+238       -0.084305
+0.00000\                
+237         -0.1094
+0.00000\                
+236       -0.031448
+0.00000\                
+235          0.0056
+0.00000\                
+234        0.019886
+0.00000\                
+233      0.00069524
+0.00000\                
+232       -0.055305
+0.00000\                
+231        -0.10688
+0.00000\                
+230       -0.053114
+0.00000\                
+229      -0.0006381
+0.00000\                
+228        0.033981
+0.00000\                
+227         0.12965
+0.00000\                
+226        0.088314
+0.00000\                
+225        -0.10054
+0.00000\                
+224        -0.14635
+0.00000\                
+223        -0.21454
+0.00000\                
+222        -0.30083
+0.00000\                
+221        -0.38226
+0.00000\                
+220        -0.63335
+0.00000\                
+219        -0.87126
+0.00000\                
+218         -1.1466
+0.00000\                
+217         -1.5048
+0.00000\                
+216         -1.9734
+0.00000\                
+215         -2.5381
+0.00000\                
+214         -3.3083
+0.00000\                
+213          -4.043
+0.00000\                
+212         -4.9334
+0.00000\                
+211          -6.087
+0.00000\                
+210         -7.4163
+0.00000\                
+209          -9.023
+0.00000\                
+208          -10.89
+0.00000\                
+207         -12.871
+0.00000\                
+206         -15.055
+0.00000\                
+205         -17.568
+0.00000\                
+204         -20.377
+0.00000\                
+203         -23.352
+0.00000\                
+202         -26.425
+0.00000\                
+201         -29.636
+0.00000\                
+200         -32.805
+0.00000\                
+199         -36.121
+0.00000\                
+198         -39.306
+0.00000\                
+197         -42.161
+0.00000\                
+196          -44.67
+0.00000\                
+195         -46.934
+0.00000\                
+194         -48.524
+0.00000\                
+193         -49.822
+0.00000\                
+192         -50.273
+0.00000\                
+191         -50.082
+0.00000\                
+190         -49.252
+0.00000\                
+189         -48.102
+0.00000\                
+188         -46.597
+0.00000\                
+187         -44.939
+0.00000\                
+186         -42.897
+0.00000\                
+185         -40.672
+0.00000\                
+184         -38.396
+0.00000\                
+183         -36.131
+0.00000\                
+182         -33.943
+0.00000\                
+181         -31.859
+0.00000\                
+180         -30.167
+0.00000\                
+179         -28.407
+0.00000\                
+178         -27.068
+0.00000\                
+177          -25.81
+0.00000\                
+176         -21.143
+0.00000\                
+175         -19.631
+0.00000\                
+174         -16.443
+0.00000\                
+173           -13.8
+0.00000\                
+172         -13.501
+0.00000\                
+171         -11.493
+0.00000\                
+170         -6.0133
+0.00000\                
+PCDDB-END
