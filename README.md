@@ -1,5 +1,5 @@
 # CDNNLSQ
-NNLSQ method to deconvolute Circular Dichroism spectra
+NNLSQ method to deconvolute Circular Dichroism spectra of proteins/peptides including intrinsically disordered regions.
 
 reference_database/ : reference data base sdp48
 
